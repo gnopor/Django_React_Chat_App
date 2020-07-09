@@ -1,6 +1,6 @@
 # Django Channels - Django React Chat App
 
-[![alt text](https://raw.githubusercontent.com/gnopor/Django_React_Chat_App/master/frontend/thumbnail.png "Logo")]
+![alt text](https://raw.githubusercontent.com/gnopor/Django_React_Chat_App/master/frontend/thumbnail.png "Logo")
 
 This a chat application build with Django 3, Channels and react.
 
